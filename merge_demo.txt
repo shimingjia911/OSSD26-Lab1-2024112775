@@ -1,3 +1,3 @@
-status: master baseline
+status: B2 added its own branch change
 owner: Git branch lab
 description: This file is shared by B1, B2, and C4.
